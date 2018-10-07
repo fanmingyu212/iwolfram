@@ -27,4 +27,4 @@ Currently, iwolfram has almost full supports for graphics when uses the original
  
  as the the kernel backend. 
 
-
+Running on Windows: `python setup.py install  --mma-exec path_to_wolfram.exe_in_python_str`
